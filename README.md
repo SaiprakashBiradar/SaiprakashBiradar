@@ -2,7 +2,7 @@
 - 👀 I’m interested in SDET opportunities
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on WebdricerIO, Appium, Typescript
-- 📫 How to reach me on saiprakashbiradar@gmail.com
+- 📫 How to reach me on saiprakashrbiradar@gmail.com
 
 <!---
 SaiprakashBiradar/SaiprakashBiradar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
